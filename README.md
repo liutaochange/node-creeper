@@ -9,7 +9,6 @@
 #### 获取到的数据展示
 
 ![](https://node-creeper.oss-cn-beijing.aliyuncs.com/json.png)
-![](https://music-blog.oss-cn-beijing.aliyuncs.com/201803221819081.png)
 
 #### 安装教程
 
